@@ -58,9 +58,3 @@ Acknowledgements
 Pygame
 This project was inspired by the desire to visually understand algorithm sorting techniques.
 
-
-### Notes:
-
-1. **GitHub URL**: The repository links provided are based on the hypothetical URL you provided. Adjust accordingly if the actual URL differs.
-2. **Sections**: This template includes sections for installation, usage, contributing, licensing, and contact info which you should adapt based on your project’s actual content and requirements.
-3. **Acknowledgements**: Customize this section based on any influences or credits pertinent to the project's development.
